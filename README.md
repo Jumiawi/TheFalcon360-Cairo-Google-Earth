@@ -11,11 +11,11 @@ The dataset contains RGB satellite image patches generated from Google Earth Lev
 
 The complete dataset is available from Zenodo:
 
-https://doi.org/10.5281/zenodo.21270614
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21433540.svg)](https://doi.org/10.5281/zenodo.21433540)
 
 Direct download:
 
-https://zenodo.org/records/21270614/files/sentinel2_Cairo_research_dataset%202.zip?download=1
+https://zenodo.org/records/21433540/files/Cairo.zip?download=1
 
 ## Creator
 
@@ -127,6 +127,7 @@ The Falcon 360° Cairo Google Earth Dataset.
 Zenodo.
 
 DOI:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21270614.svg)](https://doi.org/10.5281/zenodo.21270614)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21433540.svg)](https://doi.org/10.5281/zenodo.21433540)
 
 
