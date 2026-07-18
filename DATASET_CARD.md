@@ -117,4 +117,4 @@ The Falcon 360° Cairo Google Earth Dataset.
 Zenodo.
 
 DOI:
-10.5281/zenodo.21270614
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21433540.svg)](https://doi.org/10.5281/zenodo.21433540)
