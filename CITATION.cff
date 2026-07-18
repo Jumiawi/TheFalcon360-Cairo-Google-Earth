@@ -29,4 +29,3 @@ abstract: >
   remote sensing dataset containing RGB satellite image patches generated
   from Google Earth covering Cairo.
 
-repository-code: "https://github.com/Jumiawi/TheFalcon360-Cairo-Sentinel2"
