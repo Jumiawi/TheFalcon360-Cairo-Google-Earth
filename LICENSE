@@ -9,7 +9,7 @@ The dataset organization, preprocessing pipeline,
 metadata, and documentation are provided by
 The Falcon 360°.
 
-The underlying Sentinel-2 satellite imagery
+The underlying Google Earth and Sentinel-2 satellite imagery
 originates from the Copernicus Sentinel-2 mission
 and remains subject to its original data terms.
 
