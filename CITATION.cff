@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 
-title: "The Falcon 360° Bahrain Sentinel-2 Satellite Dataset v1.0"
+title: "The Falcon 360° Cairo Google Earth Dataset v1.0"
 
 authors:
   - family-names: Jumiawi
@@ -17,7 +17,7 @@ doi: "10.5281/zenodo.21270614"
 url: "https://thefalcon360.com"
 
 keywords:
-  - Sentinel-2
+  - Google Earth
   - satellite imagery
   - remote sensing
   - computer vision
@@ -25,8 +25,8 @@ keywords:
   - image segmentation
 
 abstract: >
-  The Falcon 360° Bahrain Sentinel-2 Satellite Dataset is an AI-ready
+  The Falcon 360° Cairo Google Earth Dataset is an AI-ready
   remote sensing dataset containing RGB satellite image patches generated
-  from Sentinel-2 Level-2A imagery covering Bahrain.
+  from Google Earth covering Cairo.
 
-repository-code: "https://github.com/Jumiawi/TheFalcon360-Bahrain-Sentinel2"
+repository-code: "https://github.com/Jumiawi/TheFalcon360-Cairo-Sentinel2"
