@@ -1,5 +1,5 @@
 {
-  "dataset_name": "The Falcon 360° Bahrain Sentinel-2 Dataset",
+  "dataset_name": "The Falcon 360° Cairo GE Dataset",
 
   "version": "1.0",
 
@@ -7,9 +7,9 @@
 
   "organization": "The Falcon 360°",
 
-  "country": "Bahrain",
+  "country": "Cairo/Egypt",
 
-  "sensor": "Sentinel-2 MSI",
+  "sensor": "Google Earth",
 
   "image_channels": 3,
 
