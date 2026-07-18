@@ -1,11 +1,11 @@
-# The Falcon 360° Bahrain Sentinel-2 Dataset
+# The Falcon 360° Cairo Google Earth Dataset
 
 
 ## Dataset Summary
 
-The Falcon 360° Bahrain Sentinel-2 Dataset is an AI-ready satellite imagery dataset created for computer vision and deep learning applications.
+The Falcon 360° Cairo Google Earth Dataset is an AI-ready satellite imagery dataset created for computer vision and deep learning applications.
 
-The dataset contains RGB satellite image patches generated from Sentinel-2 Level-2A imagery covering Bahrain.
+The dataset contains RGB satellite image patches generated from Google Earth Level-2A imagery covering Cairo.
 
 ## Dataset Download
 
@@ -15,7 +15,7 @@ https://doi.org/10.5281/zenodo.21270614
 
 Direct download:
 
-https://zenodo.org/records/21270614/files/sentinel2_bahrain_research_dataset%202.zip?download=1
+https://zenodo.org/records/21270614/files/sentinel2_Cairo_research_dataset%202.zip?download=1
 
 ## Creator
 
@@ -45,13 +45,13 @@ https://orcid.org/0000-0002-5348-7970
 
 Country:
 
-Bahrain
+Cairo
 
-![Bahrain Dataset Preview](assets/Cairo.png)
+![Cairo Dataset Preview](assets/Cairo.png)
 
 Satellite:
 
-Sentinel-2 MSI
+Google Earth MSI
 
 
 Product:
@@ -101,7 +101,7 @@ Recommended applications:
 The dataset was created through:
 
 - Geographic area selection
-- Sentinel-2 retrieval
+- Google Earth retrieval
 - Cloud filtering
 - RGB extraction
 - Quality control
@@ -113,9 +113,7 @@ The dataset was created through:
 
 ## Data Source
 
-Copernicus Sentinel-2 Mission.
-
-Accessed through Microsoft Planetary Computer.
+Google Earth Scan.
 
 
 ---
@@ -124,7 +122,7 @@ Accessed through Microsoft Planetary Computer.
 
 Walaa Ali H. Jumiawi (2026).
 
-The Falcon 360° Bahrain Sentinel-2 Satellite Dataset v1.0.
+The Falcon 360° Cairo Google Earth Dataset.
 
 Zenodo.
 
